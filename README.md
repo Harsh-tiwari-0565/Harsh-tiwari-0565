@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Tiwari
 
-<!--
-**Harsh-tiwari-0565/Harsh-tiwari-0565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | .NET 8 | Angular | Clean Architecture
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+* 💻 Full-stack developer with strong focus on backend development
+* 🧠 Experienced in building scalable APIs using .NET Core and integrating with Angular frontends
+* 🔧 Skilled in clean architecture, modular design, and performance optimization
+* 🚀 Passionate about writing clean, maintainable code and solving real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Angular, TypeScript, HTML, CSS
+* **Backend:** .NET 8, ASP.NET Core, Web API
+* **Architecture:** Clean Architecture, CQRS, Modular Monolith
+* **Database:** SQL Server, PostgreSQL
+* **ORM:** EF Core, Dapper
+* **Tools:** Git, Docker, Swagger, Serilog
+
+---
+
+## 📌 Featured Projects
+
+*(Adding soon — actively building high-quality full-stack and backend projects)*
+
+* 🔹 Modular Monolith (Angular + .NET 8 + CQRS)
+* 🔹 High Performance API (Dapper + Optimization)
+* 🔹 Auth System (JWT + Role-based access)
+* 🔹 EHR/Assessment System (Real-world use case)
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Harsh-tiwari-0565\&show_icons=true)
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/harsh-tiwari-778b99160/
+* Email: harshti2000@gmail.com
+
+---
+
+⭐️ Building scalable, clean, and production-ready full-stack applications
